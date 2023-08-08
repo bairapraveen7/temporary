@@ -1,0 +1,3 @@
+[submodule "temporary2"]
+	path = temporary2
+	url = ./temporary2
